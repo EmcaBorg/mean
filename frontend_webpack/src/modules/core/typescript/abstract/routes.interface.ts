@@ -1,4 +1,4 @@
-export interface Routes {
+export interface IRoutes {
   path?: string,
   component?: string
 }
