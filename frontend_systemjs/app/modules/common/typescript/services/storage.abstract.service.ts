@@ -7,6 +7,6 @@ export abstract class StorageService{
 
     }
 
-    abstract setSession(): void;
+    setSession(): void;
 
 }
