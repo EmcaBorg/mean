@@ -1,0 +1,9 @@
+.incremental{
+  color: blue;
+}
+
+.diferental{
+  color: yellow;
+}
+
+h1{color: turquise}

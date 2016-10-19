@@ -1,0 +1,16 @@
+import { NgModule } from '@angular/core';
+import {HomeComponent} from "./components/home.component";
+import {HomeRoutes} from "./routes/home.routes";
+import {CommonModule} from "../../common/typescript/common.module";
+
+
+
+@NgModule({
+  imports: [HomeRoutes, CommonModule],
+  declarations: [HomeComponent],
+  exports:      [HomeComponent]
+})
+
+export class HomeModule { }
+
+
