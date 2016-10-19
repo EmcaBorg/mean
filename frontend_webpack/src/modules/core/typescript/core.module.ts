@@ -6,8 +6,8 @@ import {RestService} from "./services/rest.service";
 
 @NgModule({
   imports: [HttpModule],
-  declarations: [LoginComponent],
-  exports:      [LoginComponent],
+  declarations: [],
+  exports:      [],
   providers: [RestService]
 })
 
