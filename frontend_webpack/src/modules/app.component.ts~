@@ -1,6 +1,0 @@
-import { Component } from '@angular/core';
-@Component({
-    selector: 'ng-app',
-    templateUrl: './auth/templates/auth-wrapper.html'
-})
-export class AppComponent {}
