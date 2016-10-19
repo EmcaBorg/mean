@@ -5,7 +5,7 @@ import {StorageService} from "../../../common/typescript/services/storage.abstra
 @Injectable()
 export class SessionService extends StorageService{
     constructor(){
-        super("Emca", 23);
+        super("key", undefined);
     }
 
 
