@@ -6,6 +6,7 @@ Angular2-Large Scale Development Architectures
 
 INSTRUCTIONS:
 
-1.Install NodeJS 
-2.
+1. Install NodeJS 
+2. Install Typings (npm install typings --global)
+3. Clone this project from GitHub 
 
