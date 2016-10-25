@@ -1,0 +1,75 @@
+{
+  "version": "v4",
+  "repo": "DefinitelyTyped/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "express/express.d.ts": {
+      "commit": "0b35996f55436563567b9639f1abbf038c08d5c1"
+    },
+    "mime/mime.d.ts": {
+      "commit": "0b35996f55436563567b9639f1abbf038c08d5c1"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "0b35996f55436563567b9639f1abbf038c08d5c1"
+    },
+    "node/node.d.ts": {
+      "commit": "73110d92bdab2367e326f297bef3574285cba329"
+    },
+    "morgan/morgan.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "0b35996f55436563567b9639f1abbf038c08d5c1"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "method-override/method-override.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "mongoose/mongoose.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "cors/cors.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "nodemailer/nodemailer-types.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "nodemailer-smtp-transport/nodemailer-smtp-transport.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "nodemailer-direct-transport/nodemailer-direct-transport.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "nodemailer/nodemailer.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "bcrypt-nodejs/bcrypt-nodejs.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "crypto-js/crypto-js.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "form-data/form-data.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "request/request.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
+    },
+    "log4js/log4js.d.ts": {
+      "commit": "0b35996f55436563567b9639f1abbf038c08d5c1"
+    },
+    "node-uuid/node-uuid.d.ts": {
+      "commit": "73110d92bdab2367e326f297bef3574285cba329"
+    },
+    "node-uuid/node-uuid-base.d.ts": {
+      "commit": "73110d92bdab2367e326f297bef3574285cba329"
+    },
+    "node-uuid/node-uuid-cjs.d.ts": {
+      "commit": "73110d92bdab2367e326f297bef3574285cba329"
+    }
+	}
+}
