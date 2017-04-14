@@ -1,4 +1,4 @@
-<h1>Angular2-Large Scale Development Architectures</h1>
+<h1>Angular2- Generic Large Scale Development Architectures</h1>
 
 *** Fully configured development environment for Angular2 web framework with all dependencies necessary for development process
 
