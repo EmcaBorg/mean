@@ -2,7 +2,7 @@
 
 *** Fully configured development environment for Angular2 web framework with all dependencies necessary for development process
 
-*** Fully configured production environment for Angular2 web framework with all dependencies necessary for preparing build version of code 
+*** Completely generic frontend with maximum encapsulation of components for the purpose of implementing object-oriented paradigm on on frontend
 
 <h3>INSTRUCTIONS:</h3>
 
