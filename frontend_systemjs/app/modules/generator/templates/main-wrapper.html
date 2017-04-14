@@ -1,0 +1,19 @@
+<div id="main-wrapper" class="container-fluid" [class.active]="screenType !== screenTypes.XS">
+    <!-- *ngIf for Headers evaluate -->
+    <user-header *ngIf="userType === userTypes.USER || userType === userTypes.EXTERNAL_PATIENT"></user-header>
+    <admin-header *ngIf="userType === userTypes.ADMIN || userType === userTypes.EXTERNAL_ADMIN "></admin-header>
+    <div id="sidebar-wrapper">
+        <div *ngIf="screenType === screenTypes.XS" class="sidebar-button">
+            <i class="fa fa-sliders" aria-hidden="true" sidebarToggler=""></i>
+        </div>
+        <!-- *ngIf for Sidebars evaluate -->
+        <user-sidebar *ngIf="userType === userTypes.USER || userType === userTypes.EXTERNAL_PATIENT"></user-sidebar>
+        <admin-sidebar *ngIf="userType === userTypes.ADMIN || userType === userTypes.EXTERNAL_ADMIN"></admin-sidebar>
+    </div>
+    <div id="content-wrapper" [class.active]="screenType !== screenTypes.XS">
+        <router-outlet></router-outlet>
+        <simple-notifications [options]="options"></simple-notifications>
+    </div>
+    <!-- *ngIf for Footers evaluate -->
+    <footer></footer>
+</div>
