@@ -13,7 +13,7 @@
     "fs": "0.0.2",
     "log4js": "^0.6.36",
     "method-override": "^2.0.2",
-    "mongoose": "^4.4.7",
+    "mongoose": "^5.7.12",
     "morgan": "^1.7.0",
     "node-gyp": "^3.3.1",
     "node-uuid": "^1.4.7",
